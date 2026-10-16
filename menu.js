@@ -150,7 +150,7 @@ async function mainMenu() {
     console.log(`
 1. Add an entry
 2. Edit an entry
-3. View all entries
+3. Search entries
 4. Remove an entry
 5. Exit
 `);
